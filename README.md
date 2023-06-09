@@ -2,6 +2,8 @@
 
 Tugas Manajamen Proyek UPN "Veteran" Jawa Timur
 
+Aldofino Pranayubi \[19081010126\]
+
 ---
 
 ![Halaman utama website Asana](assets/asana_home.png)

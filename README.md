@@ -22,7 +22,7 @@ Masukkan email dan klik "Sign Up". Pengguna akan menerima email verifikasi dari 
 
 Saat pertama kali masuk ke aplikasi Asana, pengguna akan diarahkan ke halaman home aplikasi Asana. Dua elemen paling penting di Asana adalah *My Tasks* dan *Projects*.
 
-![Aplikasi Asana](assets/asana_home.png)
+![Aplikasi Asana](assets/asana_app.png)
 *Tampilan utama aplikasi Asana*
 
 - Untuk membuat proyek baru, klik tombol **+ Create Project** di sebelah kanan.
